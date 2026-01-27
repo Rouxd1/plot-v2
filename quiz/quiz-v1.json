@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "soil_001",
+      "q": "What does “well-drained soil” mean in practice?",
+      "choices": [
+        "Water never reaches plant roots",
+        "Excess water drains while soil remains evenly moist",
+        "Soil stays saturated for several days",
+        "Soil is mostly sand with no organic matter"
+      ],
+      "answerIndex": 1,
+      "explain": "Well-drained soil allows excess water to move through while still retaining enough moisture for roots."
+    },
+    {
+      "id": "soil_002",
+      "q": "Which soil texture generally holds the most water?",
+      "choices": [
+        "Sand",
+        "Silt",
+        "Clay",
+        "Gravel"
+      ],
+      "answerIndex": 2,
+      "explain": "Clay has very small particles and high surface area, allowing it to retain more water than other soil textures."
+    },
+    {
+      "id": "soil_003",
+      "q": "Soil compaction primarily harms plants by reducing:",
+      "choices": [
+        "Soil temperature",
+        "Nutrient availability",
+        "Oxygen in the root zone",
+        "Soil pH"
+      ],
+      "answerIndex": 2,
+      "explain": "Compaction reduces pore space, limiting oxygen movement to roots."
+    },
+    {
+      "id": "sun_001",
+      "q": "In horticultural terms, “full sun” typically means:",
+      "choices": [
+        "2–3 hours of direct sunlight per day",
+        "4–5 hours of direct sunlight per day",
+        "6 or more hours of direct sunlight per day",
+        "Bright shade all day"
+      ],
+      "answerIndex": 2,
+      "explain": "Most horticultural references define full sun as at least 6 hours of direct sunlight."
+    },
+    {
+      "id": "sun_002",
+      "q": "A plant labeled “part shade” usually prefers:",
+      "choices": [
+        "No direct sunlight",
+        "Morning sun and afternoon shade",
+        "Full afternoon sun",
+        "Constant filtered light indoors"
+      ],
+      "answerIndex": 1,
+      "explain": "Part shade typically means protection from intense afternoon sun, often with morning exposure."
+    },
+    {
+      "id": "water_001",
+      "q": "Overwatering most commonly damages plants by:",
+      "choices": [
+        "Leaching nutrients instantly",
+        "Freezing roots",
+        "Reducing oxygen availability to roots",
+        "Raising soil salinity"
+      ],
+      "answerIndex": 2,
+      "explain": "Saturated soils displace oxygen, leading to root suffocation and rot."
+    },
+    {
+      "id": "water_002",
+      "q": "Which is a reliable sign that a plant needs water?",
+      "choices": [
+        "Wilting leaves in the afternoon heat",
+        "Dry soil several inches below the surface",
+        "Yellowing lower leaves",
+        "Slow growth"
+      ],
+      "answerIndex": 1,
+      "explain": "Checking moisture below the surface is more reliable than visual symptoms alone."
+    },
+    {
+      "id": "planting_001",
+      "q": "When planting trees, the root flare should be:",
+      "choices": [
+        "Buried several inches below soil level",
+        "At or slightly above finished grade",
+        "Covered with mulch",
+        "Hidden for stability"
+      ],
+      "answerIndex": 1,
+      "explain": "Planting too deep is a common cause of failure; the root flare should be visible."
+    },
+    {
+      "id": "planting_002",
+      "q": "The planting hole for a tree should generally be:",
+      "choices": [
+        "As deep as the root ball and twice as wide",
+        "Deeper than the root ball",
+        "The same width as the root ball",
+        "Narrow and compact"
+      ],
+      "answerIndex": 0,
+      "explain": "A wide hole encourages lateral root growth while depth should not exceed the root ball height."
+    },
+    {
+      "id": "mulch_001",
+      "q": "The primary benefit of mulch around plants is to:",
+      "choices": [
+        "Provide immediate nutrients",
+        "Suppress weeds and conserve moisture",
+        "Increase soil pH",
+        "Repel insects"
+      ],
+      "answerIndex": 1,
+      "explain": "Mulch moderates soil temperature, reduces evaporation, and limits weed growth."
+    },
+    {
+      "id": "mulch_002",
+      "q": "Mulch should be kept away from direct contact with tree trunks to prevent:",
+      "choices": [
+        "Cold damage",
+        "Sunburn",
+        "Trunk rot and pest issues",
+        "Nutrient loss"
+      ],
+      "answerIndex": 2,
+      "explain": "Mulch piled against trunks traps moisture and encourages decay and pests."
+    },
+    {
+      "id": "prune_001",
+      "q": "The safest general time to prune most deciduous trees is:",
+      "choices": [
+        "Mid-summer",
+        "During fall leaf drop",
+        "Late winter while dormant",
+        "Immediately after planting"
+      ],
+      "answerIndex": 2,
+      "explain": "Dormant pruning minimizes stress and reduces disease pressure."
+    },
+    {
+      "id": "prune_002",
+      "q": "Why should dead or diseased branches be removed?",
+      "choices": [
+        "They reduce soil nutrients",
+        "They attract beneficial insects",
+        "They can spread pathogens and weaken structure",
+        "They increase flowering"
+      ],
+      "answerIndex": 2,
+      "explain": "Removing compromised wood improves plant health and structural safety."
+    },
+    {
+      "id": "fert_001",
+      "q": "Excessive fertilizer use can harm plants by:",
+      "choices": [
+        "Increasing photosynthesis too quickly",
+        "Burning roots and disrupting water uptake",
+        "Cooling soil temperature",
+        "Lowering soil oxygen"
+      ],
+      "answerIndex": 1,
+      "explain": "High salt concentrations from fertilizer can damage roots and interfere with water absorption."
+    },
+    {
+      "id": "fert_002",
+      "q": "Fertilizer labels use numbers like 10-10-10 to represent:",
+      "choices": [
+        "Application rates",
+        "Soil pH targets",
+        "Percentages of nitrogen, phosphorus, and potassium",
+        "Plant growth stages"
+      ],
+      "answerIndex": 2,
+      "explain": "These numbers indicate nutrient percentages by weight."
+    },
+    {
+      "id": "plant_health_001",
+      "q": "Chlorosis is most often characterized by:",
+      "choices": [
+        "Brown leaf margins",
+        "Yellow leaves with green veins",
+        "Leaf spots",
+        "Wilting stems"
+      ],
+      "answerIndex": 1,
+      "explain": "Chlorosis commonly results from nutrient deficiencies affecting chlorophyll production."
+    },
+    {
+      "id": "plant_health_002",
+      "q": "Which factor most strongly influences plant hardiness?",
+      "choices": [
+        "Soil texture",
+        "Annual rainfall",
+        "Minimum winter temperature",
+        "Day length"
+      ],
+      "answerIndex": 2,
+      "explain": "Cold tolerance is the basis of USDA hardiness zones."
+    },
+    {
+      "id": "pest_001",
+      "q": "Integrated Pest Management (IPM) emphasizes:",
+      "choices": [
+        "Routine pesticide use",
+        "Eliminating all insects",
+        "Monitoring and using the least disruptive controls first",
+        "Only organic treatments"
+      ],
+      "answerIndex": 2,
+      "explain": "IPM prioritizes observation and targeted, minimal intervention."
+    },
+    {
+      "id": "pest_002",
+      "q": "Many plant diseases spread most easily under:",
+      "choices": [
+        "Dry, windy conditions",
+        "Consistently wet foliage",
+        "Cold soil temperatures",
+        "High light intensity"
+      ],
+      "answerIndex": 1,
+      "explain": "Extended leaf wetness promotes fungal and bacterial growth."
+    },
+    {
+      "id": "general_001",
+      "q": "Why is proper plant spacing important?",
+      "choices": [
+        "It improves soil color",
+        "It reduces air circulation",
+        "It limits competition and disease pressure",
+        "It increases fertilizer efficiency"
+      ],
+      "answerIndex": 2,
+      "explain": "Adequate spacing improves airflow and reduces stress and disease."
+    },
+    {
+      "id": "general_002",
+      "q": "Why should native plants often be favored in landscapes?",
+      "choices": [
+        "They never need maintenance",
+        "They always grow faster",
+        "They are adapted to local conditions",
+        "They eliminate pests"
+      ],
+      "answerIndex": 2,
+      "explain": "Native plants evolved with local soils, climate, and ecosystems."
+    }
+  ]
+}
