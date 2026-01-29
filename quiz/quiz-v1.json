@@ -1,0 +1,1817 @@
+{
+  "version": 1,
+  "questions": [
+    {
+      "id": "sun_001",
+      "q": "In horticultural labels, “full sun” typically means:",
+      "choices": [
+        "2–3 hours of direct sun",
+        "4–5 hours of direct sun",
+        "6+ hours of direct sun",
+        "Bright shade all day"
+      ],
+      "answerIndex": 2,
+      "explain": "Most plant labels and extension references use full sun as at least about 6 hours of direct sunlight."
+    },
+    {
+      "id": "sun_002",
+      "q": "“Part shade” most often describes a site with:",
+      "choices": [
+        "No direct sun",
+        "Morning sun and afternoon shade",
+        "Full afternoon sun",
+        "Only indoor light"
+      ],
+      "answerIndex": 1,
+      "explain": "Part shade commonly means some direct sun (often morning) but protection from intense afternoon sun."
+    },
+    {
+      "id": "soil_001",
+      "q": "What does “well-drained soil” mean in practice?",
+      "choices": [
+        "Water never reaches roots",
+        "Excess water drains while soil stays evenly moist",
+        "Soil stays saturated for days",
+        "Soil has no organic matter"
+      ],
+      "answerIndex": 1,
+      "explain": "Well-drained soils allow excess water to move through while still holding moisture for roots."
+    },
+    {
+      "id": "soil_002",
+      "q": "Which soil texture generally holds the most water?",
+      "choices": [
+        "Sand",
+        "Silt",
+        "Clay",
+        "Gravel"
+      ],
+      "answerIndex": 2,
+      "explain": "Clay’s very small particles and high surface area allow it to retain more water."
+    },
+    {
+      "id": "soil_003",
+      "q": "Soil compaction most directly harms plants by reducing:",
+      "choices": [
+        "Soil temperature",
+        "Oxygen in the root zone",
+        "Soil pH",
+        "Seed viability"
+      ],
+      "answerIndex": 1,
+      "explain": "Compaction reduces pore space, limiting oxygen diffusion to roots and water infiltration."
+    },
+    {
+      "id": "soil_004",
+      "q": "A reliable way to understand soil pH is that it affects:",
+      "choices": [
+        "How fast leaves grow",
+        "How available nutrients are to plants",
+        "How many earthworms exist",
+        "Only water retention"
+      ],
+      "answerIndex": 1,
+      "explain": "Soil pH strongly influences nutrient availability and uptake, even if nutrients are present."
+    },
+    {
+      "id": "water_001",
+      "q": "Overwatering most commonly damages plants because it:",
+      "choices": [
+        "Instantly removes all nutrients",
+        "Reduces oxygen available to roots",
+        "Freezes the root ball",
+        "Raises soil pH rapidly"
+      ],
+      "answerIndex": 1,
+      "explain": "Saturated soils displace oxygen; roots can suffocate and become susceptible to rot."
+    },
+    {
+      "id": "water_002",
+      "q": "Which is the most reliable indicator that a plant needs watering?",
+      "choices": [
+        "Afternoon wilting",
+        "Dry soil several inches down",
+        "A few yellow leaves",
+        "Slow growth"
+      ],
+      "answerIndex": 1,
+      "explain": "Check soil moisture below the surface; wilting can occur from heat stress even when soil is moist."
+    },
+    {
+      "id": "water_003",
+      "q": "For many landscapes, the most efficient irrigation timing is:",
+      "choices": [
+        "Late evening",
+        "Midday",
+        "Early morning",
+        "Any time during rain"
+      ],
+      "answerIndex": 2,
+      "explain": "Early morning reduces evaporation and leaf wetness duration compared to night watering."
+    },
+    {
+      "id": "planting_001",
+      "q": "When planting a tree, the root flare should be:",
+      "choices": [
+        "Buried several inches",
+        "At or slightly above finished grade",
+        "Covered with mulch",
+        "Hidden for stability"
+      ],
+      "answerIndex": 1,
+      "explain": "Planting too deep is a leading failure cause; the root flare should be visible at/above grade."
+    },
+    {
+      "id": "planting_002",
+      "q": "A good planting hole for a tree is generally:",
+      "choices": [
+        "As deep as the root ball and 2–3× as wide",
+        "Deeper than the root ball",
+        "Same width as the root ball",
+        "Narrow and compact"
+      ],
+      "answerIndex": 0,
+      "explain": "Depth should match the root ball; a wide hole encourages lateral root expansion."
+    },
+    {
+      "id": "planting_003",
+      "q": "After planting, the most important immediate care is usually:",
+      "choices": [
+        "Heavy fertilizing",
+        "Deep, thorough watering",
+        "Hard pruning",
+        "Frequent foliar spraying"
+      ],
+      "answerIndex": 1,
+      "explain": "Establishment success depends heavily on consistent, deep watering (not fertilizer) early on."
+    },
+    {
+      "id": "mulch_001",
+      "q": "The main benefit of mulch around plants is to:",
+      "choices": [
+        "Provide immediate nutrients",
+        "Suppress weeds and conserve moisture",
+        "Raise soil pH",
+        "Repel all insects"
+      ],
+      "answerIndex": 1,
+      "explain": "Mulch moderates temperature, reduces evaporation, and suppresses weeds."
+    },
+    {
+      "id": "mulch_002",
+      "q": "Mulch should be kept away from direct contact with tree trunks to prevent:",
+      "choices": [
+        "Sunscald",
+        "Trunk rot and pest problems",
+        "Cold injury",
+        "Leaf scorch"
+      ],
+      "answerIndex": 1,
+      "explain": "Mulch piled against trunks traps moisture and encourages decay and pests (“mulch volcano”)."
+    },
+    {
+      "id": "mulch_003",
+      "q": "A typical recommended mulch depth for many landscapes is about:",
+      "choices": [
+        "0.5 inch",
+        "1 inch",
+        "2–3 inches",
+        "8–10 inches"
+      ],
+      "answerIndex": 2,
+      "explain": "Around 2–3 inches is commonly recommended; too deep can reduce oxygen and hold excess moisture."
+    },
+    {
+      "id": "prune_001",
+      "q": "The safest general time to prune many deciduous trees is:",
+      "choices": [
+        "Mid-summer",
+        "Fall during leaf drop",
+        "Late winter while dormant",
+        "During spring flush"
+      ],
+      "answerIndex": 2,
+      "explain": "Dormant pruning reduces stress and is often less favorable for many pathogens and insects."
+    },
+    {
+      "id": "prune_002",
+      "q": "Why should you avoid leaving a long stub when pruning a branch?",
+      "choices": [
+        "It increases flowering",
+        "It prevents callus formation and can decay",
+        "It makes the branch stronger",
+        "It boosts root growth"
+      ],
+      "answerIndex": 1,
+      "explain": "Stubs don’t seal properly and can die back and decay, creating entry points for pests and disease."
+    },
+    {
+      "id": "prune_003",
+      "q": "If a shrub blooms on old wood (forms buds the previous season), a general pruning rule is to prune:",
+      "choices": [
+        "In late winter",
+        "Right after flowering",
+        "In late fall",
+        "Only in midsummer"
+      ],
+      "answerIndex": 1,
+      "explain": "Pruning right after flowering avoids removing next season’s flower buds formed on old wood."
+    },
+    {
+      "id": "fert_001",
+      "q": "Excessive fertilizer can harm plants primarily by:",
+      "choices": [
+        "Cooling soil",
+        "Root burn and disrupted water uptake",
+        "Lowering soil oxygen directly",
+        "Stopping photosynthesis"
+      ],
+      "answerIndex": 1,
+      "explain": "High salts from overfertilization can damage roots and interfere with water absorption."
+    },
+    {
+      "id": "fert_002",
+      "q": "On a fertilizer label like 10-10-10, the numbers represent:",
+      "choices": [
+        "Application rate per 100 sq ft",
+        "Percent N-P-K by weight",
+        "Soil pH targets",
+        "Plant maturity stages"
+      ],
+      "answerIndex": 1,
+      "explain": "The numbers indicate the percent of nitrogen, phosphorus (as phosphate), and potassium (as potash)."
+    },
+    {
+      "id": "fert_003",
+      "q": "Which is the best first step before deciding to fertilize a landscape?",
+      "choices": [
+        "Apply a balanced fertilizer routinely",
+        "Perform a soil test",
+        "Use a high-nitrogen product",
+        "Increase watering frequency"
+      ],
+      "answerIndex": 1,
+      "explain": "Soil tests guide whether nutrients are needed and help avoid over-application."
+    },
+    {
+      "id": "plantsci_001",
+      "q": "Photosynthesis primarily uses sunlight to convert:",
+      "choices": [
+        "Oxygen into sugar",
+        "Carbon dioxide and water into sugars",
+        "Sugar into minerals",
+        "Nitrogen into chlorophyll"
+      ],
+      "answerIndex": 1,
+      "explain": "Photosynthesis uses CO₂ and water to produce sugars (chemical energy), releasing oxygen as a byproduct."
+    },
+    {
+      "id": "plantsci_002",
+      "q": "Transpiration is best described as:",
+      "choices": [
+        "Sugar storage in roots",
+        "Water loss from leaves that helps move water/nutrients",
+        "Nitrogen fixation in nodules",
+        "Leaf drop in autumn"
+      ],
+      "answerIndex": 1,
+      "explain": "Transpiration is water vapor loss through stomata; it drives water movement through the plant."
+    },
+    {
+      "id": "plantsci_003",
+      "q": "Stomata are primarily responsible for:",
+      "choices": [
+        "Root absorption",
+        "Gas exchange and water regulation",
+        "Flower formation",
+        "Seed dispersal"
+      ],
+      "answerIndex": 1,
+      "explain": "Stomata open/close to regulate CO₂ intake and water loss."
+    },
+    {
+      "id": "diagnosis_001",
+      "q": "Chlorosis is most often seen as:",
+      "choices": [
+        "Brown leaf tips",
+        "Yellowing leaves (often with greener veins)",
+        "Holes in leaves",
+        "Sticky residue on leaves"
+      ],
+      "answerIndex": 1,
+      "explain": "Chlorosis is yellowing from reduced chlorophyll, often tied to nutrient issues or pH-related lockout."
+    },
+    {
+      "id": "diagnosis_002",
+      "q": "Leaf scorch usually refers to:",
+      "choices": [
+        "Random yellow speckles",
+        "Brown, dry leaf margins from stress",
+        "Black fungal coating",
+        "Swollen galls on stems"
+      ],
+      "answerIndex": 1,
+      "explain": "Scorch commonly appears as browning at edges/tips from water stress, heat, salt, or root damage."
+    },
+    {
+      "id": "pest_001",
+      "q": "Integrated Pest Management (IPM) emphasizes:",
+      "choices": [
+        "Routine pesticide applications",
+        "Eliminating all insects",
+        "Monitoring and using least-disruptive controls first",
+        "Only organic products"
+      ],
+      "answerIndex": 2,
+      "explain": "IPM focuses on scouting, thresholds, and targeted controls to minimize impacts and resistance."
+    },
+    {
+      "id": "pest_002",
+      "q": "Many foliar fungal diseases spread most easily when leaves are:",
+      "choices": [
+        "Dry and dusty",
+        "Wet for extended periods",
+        "Cold and frozen",
+        "In full sun"
+      ],
+      "answerIndex": 1,
+      "explain": "Leaf wetness duration is a key driver for many fungal and bacterial infections."
+    },
+    {
+      "id": "pest_003",
+      "q": "Aphids often cause which symptom on new growth?",
+      "choices": [
+        "Interveinal chlorosis only",
+        "Distorted/curling leaves and sticky honeydew",
+        "Holes with ragged edges",
+        "White powdery coating"
+      ],
+      "answerIndex": 1,
+      "explain": "Aphids feed on sap, distorting tender growth and excreting honeydew that can lead to sooty mold."
+    },
+    {
+      "id": "disease_001",
+      "q": "Powdery mildew is typically recognized by:",
+      "choices": [
+        "Black spots with yellow halos",
+        "White/gray powdery growth on leaves",
+        "Orange gelatinous horns",
+        "Water-soaked leaf lesions"
+      ],
+      "answerIndex": 1,
+      "explain": "Powdery mildew looks like a white/gray coating and often occurs with humid air and moderate temps."
+    },
+    {
+      "id": "disease_002",
+      "q": "Why is it generally better to water at the soil level rather than overhead for many plants?",
+      "choices": [
+        "It increases soil pH",
+        "It reduces leaf wetness and disease risk",
+        "It makes roots grow shallower",
+        "It cools leaves too quickly"
+      ],
+      "answerIndex": 1,
+      "explain": "Overhead watering can keep foliage wet longer, promoting foliar diseases."
+    },
+    {
+      "id": "weeds_001",
+      "q": "A key reason weeds thrive in thin turf is:",
+      "choices": [
+        "Too much mulch",
+        "Bare soil and low competition from grass",
+        "Excess shade only",
+        "High potassium"
+      ],
+      "answerIndex": 1,
+      "explain": "Weeds exploit open space; dense turf shades soil and competes effectively for resources."
+    },
+    {
+      "id": "weeds_002",
+      "q": "Preemergent herbicides primarily target weeds by:",
+      "choices": [
+        "Killing established weeds",
+        "Preventing germination/seedling establishment",
+        "Sterilizing soil",
+        "Repelling insects"
+      ],
+      "answerIndex": 1,
+      "explain": "Preemergents act on germinating seeds/seedlings; timing before germination is essential."
+    },
+    {
+      "id": "prop_001",
+      "q": "Asexual (vegetative) propagation produces plants that are:",
+      "choices": [
+        "Genetically different from the parent",
+        "Genetically identical to the parent (clones)",
+        "Always weaker than seedlings",
+        "Only possible indoors"
+      ],
+      "answerIndex": 1,
+      "explain": "Cuttings/division/layering typically produce clones with the same genetics as the parent plant."
+    },
+    {
+      "id": "prop_002",
+      "q": "Which method is commonly used to propagate many houseplants quickly?",
+      "choices": [
+        "Air layering only",
+        "Stem cuttings",
+        "Seed stratification",
+        "Grafting"
+      ],
+      "answerIndex": 1,
+      "explain": "Stem cuttings are a common, efficient method for many houseplants."
+    },
+    {
+      "id": "seeds_001",
+      "q": "Cold stratification is used to:",
+      "choices": [
+        "Increase soil pH",
+        "Break seed dormancy in some species",
+        "Kill fungi on leaves",
+        "Speed up composting"
+      ],
+      "answerIndex": 1,
+      "explain": "Some seeds require a moist chilling period to break dormancy and germinate reliably."
+    },
+    {
+      "id": "seeds_002",
+      "q": "“Hardening off” seedlings means:",
+      "choices": [
+        "Cutting roots to encourage branching",
+        "Gradually acclimating plants to outdoor conditions",
+        "Keeping seedlings in complete darkness",
+        "Fertilizing daily for a week"
+      ],
+      "answerIndex": 1,
+      "explain": "Hardening off reduces transplant shock by slowly increasing sun, wind, and temperature exposure."
+    },
+    {
+      "id": "containers_001",
+      "q": "A common reason container plants fail is:",
+      "choices": [
+        "Too much sun",
+        "Poor drainage and waterlogging",
+        "Too much airflow",
+        "Too much spacing"
+      ],
+      "answerIndex": 1,
+      "explain": "Containers must drain well; waterlogged media quickly leads to root stress and rot."
+    },
+    {
+      "id": "containers_002",
+      "q": "Why do container plants typically need more frequent watering than in-ground plants?",
+      "choices": [
+        "Containers prevent evaporation",
+        "Potting mixes drain faster and have less total soil volume",
+        "Roots don’t absorb water in pots",
+        "Mulch can’t be used in pots"
+      ],
+      "answerIndex": 1,
+      "explain": "Less volume and faster drainage mean containers dry out more quickly than ground soil."
+    },
+    {
+      "id": "compost_001",
+      "q": "Finished compost is best described as:",
+      "choices": [
+        "Fresh green plant scraps",
+        "Stable, dark organic matter with earthy smell",
+        "Pure sand",
+        "High-salt fertilizer"
+      ],
+      "answerIndex": 1,
+      "explain": "Finished compost is decomposed, stable organic material that improves soil structure and biology."
+    },
+    {
+      "id": "compost_002",
+      "q": "A good compost pile generally needs:",
+      "choices": [
+        "Only dry leaves",
+        "A mix of greens and browns plus moisture and oxygen",
+        "Only food scraps",
+        "No turning or air"
+      ],
+      "answerIndex": 1,
+      "explain": "Composting works best with balanced carbon/nitrogen inputs, adequate moisture, and oxygen."
+    },
+    {
+      "id": "turf_001",
+      "q": "The single best cultural practice to reduce many turf problems is:",
+      "choices": [
+        "Frequent shallow watering",
+        "Mowing at the correct height for the species",
+        "Daily fertilizing",
+        "Using herbicides routinely"
+      ],
+      "answerIndex": 1,
+      "explain": "Proper mowing height supports deeper roots and denser turf, suppressing weeds and stress."
+    },
+    {
+      "id": "turf_002",
+      "q": "Why is frequent shallow watering discouraged for lawns?",
+      "choices": [
+        "It increases soil clay content",
+        "It encourages shallow roots and increases stress susceptibility",
+        "It raises soil pH",
+        "It prevents germination"
+      ],
+      "answerIndex": 1,
+      "explain": "Shallow watering promotes shallow roots; deeper, less frequent watering generally builds resilience."
+    },
+    {
+      "id": "trees_001",
+      "q": "Why is staking a newly planted tree often unnecessary or limited in duration?",
+      "choices": [
+        "It makes the trunk too flexible",
+        "It can reduce trunk strength development if left too long",
+        "It increases root depth instantly",
+        "It always causes disease"
+      ],
+      "answerIndex": 1,
+      "explain": "Some movement helps trunks strengthen; prolonged staking can lead to weak trunks and girdling ties."
+    },
+    {
+      "id": "trees_002",
+      "q": "Girdling roots are problematic because they can:",
+      "choices": [
+        "Increase drought tolerance",
+        "Constrict water/nutrient flow and destabilize the tree",
+        "Improve anchorage",
+        "Raise soil pH"
+      ],
+      "answerIndex": 1,
+      "explain": "Roots circling and tightening around the trunk can restrict vascular flow and weaken stability over time."
+    },
+    {
+      "id": "shrubs_001",
+      "q": "“Rejuvenation pruning” on some shrubs generally involves:",
+      "choices": [
+        "Removing all leaves",
+        "Cutting many stems down near the base to renew growth",
+        "Only trimming the tips",
+        "Pruning only during bloom"
+      ],
+      "answerIndex": 1,
+      "explain": "Many multi-stem shrubs can be renewed by removing older stems near the base to stimulate new shoots."
+    },
+    {
+      "id": "nutrients_001",
+      "q": "Nitrogen deficiency most commonly shows as:",
+      "choices": [
+        "Yellowing starting with older leaves",
+        "Purple veins only",
+        "Holes in leaves",
+        "White powdery coating"
+      ],
+      "answerIndex": 0,
+      "explain": "Nitrogen is mobile in plants, so deficiency symptoms often appear first on older leaves."
+    },
+    {
+      "id": "nutrients_002",
+      "q": "Iron deficiency commonly appears as:",
+      "choices": [
+        "Yellowing between veins on newest leaves",
+        "Browning leaf edges only",
+        "Sudden stem collapse",
+        "Sticky residue on leaves"
+      ],
+      "answerIndex": 0,
+      "explain": "Iron is relatively immobile; deficiency often shows as interveinal chlorosis on young leaves."
+    },
+    {
+      "id": "env_001",
+      "q": "Why do plants often wilt in hot afternoon sun even when soil is moist?",
+      "choices": [
+        "Roots stop working at noon",
+        "Transpiration exceeds water uptake temporarily",
+        "Soil pH rises quickly",
+        "Chlorophyll is destroyed instantly"
+      ],
+      "answerIndex": 1,
+      "explain": "High heat and sun increase transpiration; plants may wilt temporarily even with adequate soil moisture."
+    },
+    {
+      "id": "env_002",
+      "q": "What is the primary reason frost can injure tender plants?",
+      "choices": [
+        "It turns soil acidic",
+        "Ice formation damages plant cells and tissues",
+        "It increases insect feeding",
+        "It permanently reduces rainfall"
+      ],
+      "answerIndex": 1,
+      "explain": "Freezing can rupture cells and disrupt tissues; tender plants lack cold hardiness."
+    },
+    {
+      "id": "ipm_001",
+      "q": "A key first step in diagnosing a plant problem is to:",
+      "choices": [
+        "Apply a pesticide immediately",
+        "Correctly identify the plant and observe symptoms/patterns",
+        "Fertilize heavily",
+        "Prune randomly"
+      ],
+      "answerIndex": 1,
+      "explain": "Accurate identification and pattern observation are foundational; treatment depends on correct diagnosis."
+    },
+    {
+      "id": "exp_001",
+      "q": "What is the primary purpose of adding organic matter (like compost) to mineral soil?",
+      "choices": [
+        "To permanently raise soil pH by 2 points",
+        "To improve soil structure, moisture behavior, and microbial activity",
+        "To sterilize soil pathogens",
+        "To replace the need for irrigation"
+      ],
+      "answerIndex": 1,
+      "explain": "Organic matter improves aggregation/tilth, moderates moisture, and supports soil biology; it doesn't sterilize soil or eliminate irrigation."
+    },
+    {
+      "id": "exp_002",
+      "q": "In Zone 5–6, which timing is generally best for transplanting most hardy perennials to reduce stress?",
+      "choices": [
+        "Mid-summer during peak heat",
+        "During a hard freeze",
+        "Early spring or early fall when temperatures are moderate",
+        "Only when the plant is in full bloom"
+      ],
+      "answerIndex": 2,
+      "explain": "Cooler temps and steadier moisture in spring/fall usually improve establishment."
+    },
+    {
+      "id": "exp_003",
+      "q": "Which practice most reduces the risk of spreading soil-borne disease between beds?",
+      "choices": [
+        "Watering overhead every day",
+        "Sanitizing tools and avoiding moving contaminated soil",
+        "Adding extra nitrogen fertilizer",
+        "Planting deeper than the crown"
+      ],
+      "answerIndex": 1,
+      "explain": "Sanitation and limiting soil movement reduce disease spread; deep planting and excess nitrogen can worsen problems."
+    },
+    {
+      "id": "exp_004",
+      "q": "On many herbaceous perennials, what does “crown” refer to?",
+      "choices": [
+        "The leaf tips",
+        "The junction of stems and roots near soil level",
+        "The top of a tree canopy",
+        "A ring of bark around a limb"
+      ],
+      "answerIndex": 1,
+      "explain": "The crown is the transition between stems and roots; burying it often promotes rot."
+    },
+    {
+      "id": "exp_005",
+      "q": "In pruning, what does a “thinning cut” do?",
+      "choices": [
+        "Shortens every shoot by half",
+        "Removes an entire branch back to its origin",
+        "Removes leaves only",
+        "Tops the main trunk"
+      ],
+      "answerIndex": 1,
+      "explain": "Thinning removes whole branches to open the canopy and improve light/air movement."
+    },
+    {
+      "id": "exp_006",
+      "q": "A common sign of waterlogged roots (vs drought) is:",
+      "choices": [
+        "Soil is dry several inches down",
+        "Yellowing leaves while soil stays wet and growth stalls",
+        "Crispy margins after hot wind only",
+        "Plant perks up quickly after watering"
+      ],
+      "answerIndex": 1,
+      "explain": "Saturated roots lose oxygen and function, causing yellowing and stalling even with wet soil."
+    },
+    {
+      "id": "exp_007",
+      "q": "Why can thick mulch over newly seeded areas be a problem?",
+      "choices": [
+        "Mulch lowers oxygen in the air",
+        "Mulch can block emergence and keep the surface too wet/cool",
+        "Mulch adds too much potassium",
+        "Mulch always introduces insects"
+      ],
+      "answerIndex": 1,
+      "explain": "Many seedlings need easy emergence and appropriate moisture; thick mulch can hinder both."
+    },
+    {
+      "id": "exp_008",
+      "q": "Which statement about drainage in containers is most accurate?",
+      "choices": [
+        "A gravel layer at the bottom improves drainage in most pots",
+        "Drainage depends on holes and a suitable potting mix",
+        "Taller pots always drain worse",
+        "Drainage holes are optional if you water carefully"
+      ],
+      "answerIndex": 1,
+      "explain": "Holes + proper media matter most; gravel layers often worsen perched water in containers."
+    },
+    {
+      "id": "exp_009",
+      "q": "Why remove fallen, diseased leaves under susceptible plants?",
+      "choices": [
+        "Leaves acidify soil overnight",
+        "Many pathogens overwinter on debris and re-infect next season",
+        "Leaves repel pollinators",
+        "Leaves permanently stop root growth"
+      ],
+      "answerIndex": 1,
+      "explain": "Sanitation reduces overwintering inoculum and cuts down next-season reinfection."
+    },
+    {
+      "id": "exp_010",
+      "q": "Which is a “cultural control” in IPM?",
+      "choices": [
+        "Spraying on a fixed calendar",
+        "Improving spacing/airflow and watering practices",
+        "Using a systemic pesticide preventively",
+        "Only releasing predators in every case"
+      ],
+      "answerIndex": 1,
+      "explain": "Cultural controls change conditions to reduce pressure (spacing, sanitation, irrigation, pruning)."
+    },
+    {
+      "id": "exp_011",
+      "q": "In Zones 5–6, which hydrangea type is most reliable for blooming because it flowers on new wood?",
+      "choices": [
+        "Bigleaf hydrangea (H. macrophylla)",
+        "Oakleaf hydrangea (H. quercifolia)",
+        "Panicle hydrangea (H. paniculata)",
+        "Climbing hydrangea (H. anomala ssp. petiolaris)"
+      ],
+      "answerIndex": 2,
+      "explain": "Panicle hydrangeas bloom on new wood, so winter damage is less likely to eliminate flowering."
+    },
+    {
+      "id": "exp_012",
+      "q": "A key landscape advantage of serviceberry (Amelanchier) in Zones 5–6 is:",
+      "choices": [
+        "It is a broadleaf evergreen",
+        "It offers spring flowers, edible berries, and fall color",
+        "It fixes nitrogen like clover",
+        "It requires saturated soil year-round"
+      ],
+      "answerIndex": 1,
+      "explain": "Serviceberries provide multi-season interest and are commonly hardy in Zones 5–6."
+    },
+    {
+      "id": "exp_013",
+      "q": "Emerald ash borer primarily attacks which genus?",
+      "choices": [
+        "Acer",
+        "Fraxinus",
+        "Quercus",
+        "Betula"
+      ],
+      "answerIndex": 1,
+      "explain": "EAB targets ash (Fraxinus)."
+    },
+    {
+      "id": "exp_014",
+      "q": "Japanese beetle feeding often results in:",
+      "choices": [
+        "White powdery coating",
+        "Skeletonized leaves (tissue eaten between veins)",
+        "Black tar-like spots",
+        "Root galls that ooze sap"
+      ],
+      "answerIndex": 1,
+      "explain": "Adults commonly skeletonize foliage by eating tissue between veins."
+    },
+    {
+      "id": "exp_015",
+      "q": "Fire blight is most associated with:",
+      "choices": [
+        "Apple/pear relatives and blackened shoot tips",
+        "Pines with resin bleeding",
+        "Hostas with slug holes",
+        "Hydrangeas with blue flowers"
+      ],
+      "answerIndex": 0,
+      "explain": "Fire blight commonly affects Rosaceae (e.g., apple, pear, crabapple) and scorches shoots."
+    },
+    {
+      "id": "exp_016",
+      "q": "Why do some birches decline when planted in hot, dry, reflective sites?",
+      "choices": [
+        "They require tropical humidity",
+        "Stress can predispose them to borers and dieback",
+        "They cannot photosynthesize in sun",
+        "They only grow in pure sand"
+      ],
+      "answerIndex": 1,
+      "explain": "Heat/drought stress can weaken birch and increase susceptibility to decline and borers."
+    },
+    {
+      "id": "exp_017",
+      "q": "Which is a common Zone 5–6 native ornamental grass with upright clumps?",
+      "choices": [
+        "Switchgrass (Panicum virgatum)",
+        "Bermudagrass (Cynodon dactylon)",
+        "St. Augustinegrass (Stenotaphrum secundatum)",
+        "Centipedegrass (Eremochloa ophiuroides)"
+      ],
+      "answerIndex": 0,
+      "explain": "Switchgrass is a common native ornamental for Zones 5–6; the others are warm-region turf grasses."
+    },
+    {
+      "id": "exp_018",
+      "q": "A common reason peonies fail to bloom is:",
+      "choices": [
+        "Eyes/buds planted too deep",
+        "Too much morning sun",
+        "Mulch 1 inch deep",
+        "Watering during establishment"
+      ],
+      "answerIndex": 0,
+      "explain": "Peony buds planted too deep often reduce flowering; they prefer shallow planting."
+    },
+    {
+      "id": "exp_019",
+      "q": "Black walnut produces juglone, which can:",
+      "choices": [
+        "Make nearby plants bloom more",
+        "Inhibit growth of some sensitive plants nearby",
+        "Raise soil pH rapidly",
+        "Eliminate all insects in the area"
+      ],
+      "answerIndex": 1,
+      "explain": "Juglone can be allelopathic to certain plants; sensitivity varies by species."
+    },
+    {
+      "id": "exp_020",
+      "q": "What is a key reason to rotate vegetable crops by family each year?",
+      "choices": [
+        "It changes flavor randomly",
+        "It reduces buildup of family-specific pests and diseases",
+        "It guarantees no weeds",
+        "It permanently fixes soil compaction"
+      ],
+      "answerIndex": 1,
+      "explain": "Rotation helps break pest/disease cycles tied to crop families."
+    },
+    {
+      "id": "exp_021",
+      "q": "Blossom end rot in tomatoes is most often triggered by:",
+      "choices": [
+        "Too much potassium",
+        "Inconsistent moisture affecting calcium transport",
+        "Too much pollination",
+        "Cold nights only"
+      ],
+      "answerIndex": 1,
+      "explain": "Moisture swings limit calcium movement to developing fruit, causing the disorder."
+    },
+    {
+      "id": "exp_022",
+      "q": "A “cover crop” is primarily grown to:",
+      "choices": [
+        "Replace all fertilizer forever",
+        "Protect soil, suppress weeds, and add organic matter (sometimes nitrogen)",
+        "Increase soil salinity",
+        "Eliminate irrigation needs"
+      ],
+      "answerIndex": 1,
+      "explain": "Cover crops protect and build soil; legumes can contribute nitrogen."
+    },
+    {
+      "id": "exp_023",
+      "q": "Which cover crop type is best known for nitrogen fixation?",
+      "choices": [
+        "Legumes",
+        "Cereals only",
+        "All grasses",
+        "Succulents"
+      ],
+      "answerIndex": 0,
+      "explain": "Legumes host nitrogen-fixing bacteria in root nodules."
+    },
+    {
+      "id": "exp_024",
+      "q": "What is a “perched water table” in a container context?",
+      "choices": [
+        "Water floating above gravel improves drainage",
+        "Water held above a textural boundary within the pot",
+        "Groundwater rising into pots",
+        "A symptom of high potassium"
+      ],
+      "answerIndex": 1,
+      "explain": "Media physics can hold water above a boundary; gravel layers often increase water retention above them."
+    },
+    {
+      "id": "exp_025",
+      "q": "What is “thatch” in turf?",
+      "choices": [
+        "A layer of dead/decaying stems and roots between soil and green blades",
+        "Only living roots",
+        "A fungal coating",
+        "An intentional mulch layer"
+      ],
+      "answerIndex": 0,
+      "explain": "Thatch is an organic layer that can impede infiltration if excessive."
+    },
+    {
+      "id": "exp_026",
+      "q": "What is the primary goal of core aeration?",
+      "choices": [
+        "Increase weed germination",
+        "Improve infiltration, oxygen exchange, and root growth",
+        "Raise pH instantly",
+        "Remove all thatch in one pass"
+      ],
+      "answerIndex": 1,
+      "explain": "Aeration relieves compaction and improves soil-air-water relationships for roots."
+    },
+    {
+      "id": "exp_027",
+      "q": "A systemic pesticide is best described as one that:",
+      "choices": [
+        "Only coats leaves",
+        "Is taken up by the plant and affects pests feeding from within",
+        "Works only in cold weather",
+        "Is always organic"
+      ],
+      "answerIndex": 1,
+      "explain": "Systemics are absorbed and translocated through plant tissues."
+    },
+    {
+      "id": "exp_028",
+      "q": "In Zones 5–6, a common winter issue for broadleaf evergreens is:",
+      "choices": [
+        "Winter burn/desiccation",
+        "Nitrogen fixation",
+        "Rapid fruiting",
+        "Root galls"
+      ],
+      "answerIndex": 0,
+      "explain": "Sun and wind can dry foliage when frozen roots can't replace water."
+    },
+    {
+      "id": "exp_029",
+      "q": "Why avoid heavy late-season nitrogen on woody plants in Zones 5–6?",
+      "choices": [
+        "It prevents leaf drop",
+        "It can push tender growth that won’t harden off before frost",
+        "It eliminates mycorrhizae",
+        "It sterilizes soil"
+      ],
+      "answerIndex": 1,
+      "explain": "Late tender growth is more vulnerable to winter injury."
+    },
+    {
+      "id": "exp_030",
+      "q": "Which irrigation method is typically most water-efficient for vegetables?",
+      "choices": [
+        "Midday overhead sprinkling",
+        "Drip/soaker hoses under mulch",
+        "Water only after severe wilt",
+        "Misting leaves daily"
+      ],
+      "answerIndex": 1,
+      "explain": "Drip/soaker delivers water to root zones with minimal evaporation and reduced leaf wetness."
+    },
+    {
+      "id": "exp_031",
+      "q": "Why can tilling a weed-free bed lead to a flush of weeds afterward?",
+      "choices": [
+        "Tilling sterilizes soil and creates weeds",
+        "Tilling brings dormant seeds to light/air and favorable germination conditions",
+        "Tilling permanently removes all seeds",
+        "Tilling increases pollination"
+      ],
+      "answerIndex": 1,
+      "explain": "Disturbance exposes buried seeds and triggers germination."
+    },
+    {
+      "id": "exp_032",
+      "q": "Which symptom commonly indicates de-icing salt injury near roads?",
+      "choices": [
+        "Mushrooms on trunks",
+        "Brown leaf/needle tips and margins, worse on road-facing side",
+        "Instant flowering",
+        "Blue leaves"
+      ],
+      "answerIndex": 1,
+      "explain": "Salt spray/uptake often causes tip/margin burn, especially on exposure sides."
+    },
+    {
+      "id": "exp_033",
+      "q": "Why are spring bulbs typically planted in fall in Zones 5–6?",
+      "choices": [
+        "They require hot soil to sprout",
+        "They need a cold period to root and satisfy dormancy requirements",
+        "They bloom only in darkness",
+        "They must be planted during bloom"
+      ],
+      "answerIndex": 1,
+      "explain": "Fall planting allows rooting and cold conditioning for strong spring growth."
+    },
+    {
+      "id": "exp_034",
+      "q": "A classic sign of deer browsing on woody shrubs is:",
+      "choices": [
+        "Clean angled cuts",
+        "Ragged torn ends on shoots",
+        "Perfectly round leaf holes",
+        "Powdery coating"
+      ],
+      "answerIndex": 1,
+      "explain": "Deer browsing often leaves ragged ends because of their dentition."
+    },
+    {
+      "id": "exp_035",
+      "q": "Best protection against rabbit girdling on young trees is:",
+      "choices": [
+        "Foliar feeding",
+        "Hardware cloth/tree guards around trunks",
+        "Extra nitrogen fertilizer",
+        "Deep planting"
+      ],
+      "answerIndex": 1,
+      "explain": "Physical barriers prevent bark chewing that can girdle stems."
+    },
+    {
+      "id": "exp_036",
+      "q": "On a grafted fruit tree, a sucker is usually:",
+      "choices": [
+        "A flower bud",
+        "A shoot arising from below the graft union (rootstock growth)",
+        "A leaf spot",
+        "An insect larva"
+      ],
+      "answerIndex": 1,
+      "explain": "Below-graft shoots are typically rootstock and should be removed."
+    },
+    {
+      "id": "exp_037",
+      "q": "Why keep the graft union above soil level?",
+      "choices": [
+        "To prevent photosynthesis",
+        "To prevent scion rooting and preserve rootstock traits",
+        "To encourage trunk rot",
+        "To attract pollinators"
+      ],
+      "answerIndex": 1,
+      "explain": "Burying graft unions can negate rootstock benefits and increase disease risk."
+    },
+    {
+      "id": "exp_038",
+      "q": "Composting weeds with mature seeds is safest when:",
+      "choices": [
+        "Any compost pile is used",
+        "Hot composting reaches sustained high temperatures",
+        "The pile is kept dry",
+        "Seeds are frozen once"
+      ],
+      "answerIndex": 1,
+      "explain": "Cool compost piles often fail to kill seeds; hot composting is more reliable."
+    },
+    {
+      "id": "exp_039",
+      "q": "Why do conifers make good windbreaks in Zones 5–6?",
+      "choices": [
+        "They drop needles in winter",
+        "They provide year-round wind reduction due to evergreen foliage",
+        "They require no water ever",
+        "They always fix nitrogen"
+      ],
+      "answerIndex": 1,
+      "explain": "Evergreen foliage reduces wind even in winter when deciduous trees are bare."
+    },
+    {
+      "id": "exp_040",
+      "q": "Soil texture refers to:",
+      "choices": [
+        "Soil color",
+        "Proportions of sand, silt, and clay",
+        "Earthworm count",
+        "Fertilizer rate"
+      ],
+      "answerIndex": 1,
+      "explain": "Texture is particle size distribution, influencing drainage and water holding."
+    },
+    {
+      "id": "exp_041",
+      "q": "Soil structure refers to:",
+      "choices": [
+        "How particles form aggregates and pore spaces",
+        "Soil temperature only",
+        "Soil color only",
+        "Only fertilizer levels"
+      ],
+      "answerIndex": 0,
+      "explain": "Structure is aggregation and pore arrangement, affecting infiltration and root growth."
+    },
+    {
+      "id": "exp_042",
+      "q": "Which action is most likely to improve a poorly structured clay soil over time?",
+      "choices": [
+        "Weekly deep rototilling",
+        "Adding organic matter and minimizing compaction",
+        "Adding a small amount of sand",
+        "Never watering"
+      ],
+      "answerIndex": 1,
+      "explain": "Organic matter supports aggregation; minimizing compaction preserves pore spaces."
+    },
+    {
+      "id": "exp_043",
+      "q": "Why can adding a little sand to clay soil make it worse?",
+      "choices": [
+        "Sand is acidic",
+        "Certain ratios can create a dense, cement-like mix",
+        "Sand kills microbes",
+        "Sand prevents drainage forever"
+      ],
+      "answerIndex": 1,
+      "explain": "Clay + insufficient sand + low organic matter can pack tightly like mortar."
+    },
+    {
+      "id": "exp_044",
+      "q": "A taproot system is best described as:",
+      "choices": [
+        "One dominant root with smaller laterals",
+        "Only surface roots",
+        "Roots growing only in circles",
+        "Roots that grow only in water"
+      ],
+      "answerIndex": 0,
+      "explain": "Taprooted plants have a main central root; disturbance can be harder on established plants."
+    },
+    {
+      "id": "exp_045",
+      "q": "Why can string trimmers be deadly to young trees?",
+      "choices": [
+        "They remove mulch",
+        "They can girdle bark/cambium at the base",
+        "They fertilize soil",
+        "They only affect leaves"
+      ],
+      "answerIndex": 1,
+      "explain": "Repeated bark injury at the base can girdle the tree and interrupt vascular flow."
+    },
+    {
+      "id": "exp_046",
+      "q": "Black spot on roses is favored by:",
+      "choices": [
+        "Dry leaves and strong airflow",
+        "Prolonged leaf wetness and poor airflow",
+        "High soil calcium only",
+        "Extra compost"
+      ],
+      "answerIndex": 1,
+      "explain": "Wet foliage and low airflow favor infection; sanitation and resistant cultivars help."
+    },
+    {
+      "id": "exp_047",
+      "q": "Fungicide resistance risk is highest when:",
+      "choices": [
+        "Different modes of action are rotated",
+        "The same mode of action is used repeatedly",
+        "No products are used",
+        "Only compost is applied"
+      ],
+      "answerIndex": 1,
+      "explain": "Repeated use of one mode of action selects for resistant pathogen populations."
+    },
+    {
+      "id": "exp_048",
+      "q": "Large irregular holes in hosta leaves, often overnight, are commonly caused by:",
+      "choices": [
+        "Spider mites",
+        "Slugs/snails",
+        "Aphids",
+        "Scale insects"
+      ],
+      "answerIndex": 1,
+      "explain": "Slugs/snails feed at night and leave irregular holes (often with slime trails)."
+    },
+    {
+      "id": "exp_049",
+      "q": "Scale insects on woody plants are typically:",
+      "choices": [
+        "Fungi that form leaf spots",
+        "Sap-feeding insects that appear as bumps on stems/leaves",
+        "Always beneficial predators",
+        "Only found on annuals"
+      ],
+      "answerIndex": 1,
+      "explain": "Scale feed on sap and can weaken plants; some produce honeydew leading to sooty mold."
+    },
+    {
+      "id": "exp_050",
+      "q": "Preemergent herbicides should generally be avoided when you plan to seed soon because:",
+      "choices": [
+        "They attract rabbits",
+        "They can inhibit desired seed germination/establishment too",
+        "They raise salinity instantly",
+        "They only affect broadleaf weeds"
+      ],
+      "answerIndex": 1,
+      "explain": "Preemergents act on germinating seeds/seedlings, including turf seed."
+    },
+    {
+      "id": "exp_051",
+      "q": "Damping-off is best described as:",
+      "choices": [
+        "Leaf tip burn from fertilizer",
+        "Seedlings collapsing at the soil line from disease",
+        "Bolting in lettuce",
+        "Aphid honeydew"
+      ],
+      "answerIndex": 1,
+      "explain": "Damping-off pathogens can kill seedlings at the soil line, favored by wet, stagnant conditions."
+    },
+    {
+      "id": "exp_052",
+      "q": "Which practice most reduces damping-off risk?",
+      "choices": [
+        "Overwatering with no airflow",
+        "Clean trays, well-drained media, and avoiding constant saturation",
+        "Warm stagnant air and deep shade",
+        "Using garden soil in seed trays"
+      ],
+      "answerIndex": 1,
+      "explain": "Sanitation + drainage + moisture control reduce risk; garden soil often carries pathogens and drains poorly."
+    },
+    {
+      "id": "exp_053",
+      "q": "A typical benefit of planting native milkweed in Zones 5–6 is:",
+      "choices": [
+        "It is a conifer windbreak",
+        "It supports monarch butterflies as a larval host",
+        "It eliminates all weeds nearby",
+        "It fixes nitrogen like clover"
+      ],
+      "answerIndex": 1,
+      "explain": "Milkweeds are key host plants for monarch larvae and provide nectar resources."
+    },
+    {
+      "id": "exp_054",
+      "q": "Why can repeated shallow cultivation around tree roots be harmful?",
+      "choices": [
+        "It increases mycorrhizae instantly",
+        "It severs fine roots and reduces uptake capacity",
+        "It raises soil pH quickly",
+        "It guarantees no weeds"
+      ],
+      "answerIndex": 1,
+      "explain": "Fine roots near the surface are important for uptake; repeated disturbance reduces vigor."
+    },
+    {
+      "id": "exp_055",
+      "q": "Mycorrhizal fungi primarily:",
+      "choices": [
+        "Make leaves glossy",
+        "Enhance water/nutrient uptake via symbiosis with roots",
+        "Always cause root rot",
+        "Replace sunlight"
+      ],
+      "answerIndex": 1,
+      "explain": "They can increase effective root surface area and improve uptake, especially in nutrient-poor soils."
+    },
+    {
+      "id": "exp_056",
+      "q": "Why are apples often planted with a second compatible variety nearby?",
+      "choices": [
+        "To increase soil pH",
+        "To improve cross-pollination and fruit set",
+        "To prevent weeds",
+        "To reduce watering needs"
+      ],
+      "answerIndex": 1,
+      "explain": "Many apple varieties benefit from cross-pollination with a compatible bloom-time partner."
+    },
+    {
+      "id": "exp_057",
+      "q": "What is “biennial bearing” in fruit trees?",
+      "choices": [
+        "Fruit twice per year",
+        "Heavy crop one year followed by a light crop the next",
+        "Fruit only in winter",
+        "Fruit once every decade"
+      ],
+      "answerIndex": 1,
+      "explain": "Some trees alternate heavy/light years; thinning and good care can help moderate it."
+    },
+    {
+      "id": "exp_058",
+      "q": "Why thin apples or peaches on the tree?",
+      "choices": [
+        "To reduce fruit size",
+        "To improve size/quality and reduce limb breakage",
+        "To increase compaction",
+        "To force dormancy"
+      ],
+      "answerIndex": 1,
+      "explain": "Thinning reduces competition, improves quality, and helps prevent limb damage and alternate bearing."
+    },
+    {
+      "id": "exp_059",
+      "q": "Bolting in lettuce/spinach refers to:",
+      "choices": [
+        "Purple leaves from cold",
+        "Premature flowering that often makes leaves bitter/tough",
+        "Permanent root death",
+        "A fungal coating"
+      ],
+      "answerIndex": 1,
+      "explain": "Heat/long days often trigger early flowering, reducing eating quality."
+    },
+    {
+      "id": "exp_060",
+      "q": "A raised bed’s main advantage is typically:",
+      "choices": [
+        "No weeds ever",
+        "Improved drainage and faster warming in spring",
+        "Permanent pest elimination",
+        "No soil required"
+      ],
+      "answerIndex": 1,
+      "explain": "Raised beds often drain better and warm earlier, improving growth and access."
+    },
+    {
+      "id": "exp_061",
+      "q": "Which amendment is most likely to raise soil pH?",
+      "choices": [
+        "Elemental sulfur",
+        "Garden lime",
+        "Pine bark",
+        "Coffee grounds"
+      ],
+      "answerIndex": 1,
+      "explain": "Lime raises pH; sulfur lowers pH."
+    },
+    {
+      "id": "exp_062",
+      "q": "Which is a common reason arborvitae browns out on one side in winter?",
+      "choices": [
+        "Too much pollination",
+        "Winter wind/sun desiccation on exposure side",
+        "Overhead watering in summer",
+        "Iron toxicity"
+      ],
+      "answerIndex": 1,
+      "explain": "Evergreens can desiccate in winter, especially on the wind/sun-facing side."
+    },
+    {
+      "id": "exp_063",
+      "q": "Photoperiod means:",
+      "choices": [
+        "Soil moisture cycle",
+        "Day length affecting flowering/growth cycles",
+        "Wind speed",
+        "A fertilizer ratio"
+      ],
+      "answerIndex": 1,
+      "explain": "Many plants respond to day length for flowering and developmental timing."
+    },
+    {
+      "id": "exp_064",
+      "q": "A common reason houseplants decline in winter is:",
+      "choices": [
+        "Too much snow fertilizer",
+        "Reduced light and cold drafts/dry indoor air stress",
+        "Excess pollination",
+        "Increased humidity from heating"
+      ],
+      "answerIndex": 1,
+      "explain": "Winter light drops; windows can be cold/drafty and indoor air often dries out."
+    },
+    {
+      "id": "exp_065",
+      "q": "Pinching basil primarily:",
+      "choices": [
+        "Forces one tall stem",
+        "Encourages branching and delays flowering",
+        "Raises soil pH",
+        "Stops root growth"
+      ],
+      "answerIndex": 1,
+      "explain": "Removing the tip promotes branching and maintains leafy growth longer."
+    },
+    {
+      "id": "exp_066",
+      "q": "Why is edging around a bed helpful?",
+      "choices": [
+        "It permanently changes pH",
+        "It reduces turf creep and makes maintenance cleaner",
+        "It increases insect pressure",
+        "It stops all germination"
+      ],
+      "answerIndex": 1,
+      "explain": "Defined edges reduce encroachment and simplify mulching and trimming."
+    },
+    {
+      "id": "exp_067",
+      "q": "Interior browning of older needles on many conifers is often:",
+      "choices": [
+        "Always fatal",
+        "Normal seasonal shedding of older interior needles",
+        "Guaranteed insect infestation",
+        "A sign of nitrogen toxicity"
+      ],
+      "answerIndex": 1,
+      "explain": "Many conifers shed older interior needles periodically; pattern and timing matter."
+    },
+    {
+      "id": "exp_068",
+      "q": "Why might newly installed sod fail to root into soil below?",
+      "choices": [
+        "Too much shade for 1 hour",
+        "Poor sod-to-soil contact and insufficient establishment watering",
+        "Adding compost beforehand",
+        "Mowing at recommended height"
+      ],
+      "answerIndex": 1,
+      "explain": "Air gaps and poor moisture management prevent roots from knitting into the underlying soil."
+    },
+    {
+      "id": "exp_069",
+      "q": "Native meadow seedings most often succeed when you prioritize:",
+      "choices": [
+        "No site prep",
+        "Thorough site prep and aggressive early weed control",
+        "Monthly high-nitrogen fertilizer",
+        "Constant overhead irrigation"
+      ],
+      "answerIndex": 1,
+      "explain": "Early weed pressure is the biggest failure point; prep and follow-up control are crucial."
+    },
+    {
+      "id": "exp_070",
+      "q": "Soil temperature matters for germination because:",
+      "choices": [
+        "All seeds germinate at the same temperature",
+        "Different species have different optimal temperature ranges",
+        "Temperature never affects germination",
+        "Only light matters"
+      ],
+      "answerIndex": 1,
+      "explain": "Germination is species-specific; temperature strongly influences speed and success."
+    },
+    {
+      "id": "exp_071",
+      "q": "Forsythia is best known in Zones 5–6 for:",
+      "choices": [
+        "Yellow flowers on bare stems in early spring",
+        "Evergreen winter berries",
+        "Summer-only blooms after leaf-out",
+        "Nitrogen fixation"
+      ],
+      "answerIndex": 0,
+      "explain": "Forsythia is a classic early spring bloomer with yellow flowers before/with leaf emergence."
+    },
+    {
+      "id": "exp_072",
+      "q": "A common reason bedding plants decline when planted repeatedly in the same spot is:",
+      "choices": [
+        "Soil becomes permanently sandy",
+        "Localized pests/diseases can build up over time",
+        "Photosynthesis stops",
+        "Earthworms leave forever"
+      ],
+      "answerIndex": 1,
+      "explain": "Repeated host planting can increase localized pest and disease pressure."
+    },
+    {
+      "id": "exp_073",
+      "q": "What is a key reason to avoid working wet clay soil?",
+      "choices": [
+        "It increases sand content",
+        "It smears/compacts easily and destroys structure",
+        "It raises pH instantly",
+        "It sterilizes microbes"
+      ],
+      "answerIndex": 1,
+      "explain": "Wet clay compacts and smears, reducing pore space and harming structure."
+    },
+    {
+      "id": "exp_074",
+      "q": "In a compost pile, “greens” are primarily:",
+      "choices": [
+        "High-carbon dry materials",
+        "High-nitrogen fresh materials",
+        "Only wood chips",
+        "Only rocks"
+      ],
+      "answerIndex": 1,
+      "explain": "Greens supply nitrogen; browns supply carbon."
+    },
+    {
+      "id": "exp_075",
+      "q": "A common sign of insufficient airflow in indoor seed starting is:",
+      "choices": [
+        "Thicker stems",
+        "Leggy seedlings and increased disease risk",
+        "Faster hardening off",
+        "Immediate flower bud formation"
+      ],
+      "answerIndex": 1,
+      "explain": "Low airflow and low light contribute to leggy growth and disease pressure."
+    },
+    {
+      "id": "exp_076",
+      "q": "What does CEC (cation exchange capacity) broadly relate to?",
+      "choices": [
+        "How well soil can hold positively charged nutrients",
+        "How fast soil drains",
+        "How many weeds will grow",
+        "How reflective mulch is"
+      ],
+      "answerIndex": 0,
+      "explain": "CEC is linked to soil’s ability to retain nutrient cations (and buffer fertility)."
+    },
+    {
+      "id": "exp_077",
+      "q": "Why is chlorinated municipal water usually acceptable for general garden watering?",
+      "choices": [
+        "It is nutrient-rich fertilizer",
+        "Typical levels dissipate and generally do not harm landscape plants",
+        "It raises pH dramatically",
+        "It sterilizes soil permanently"
+      ],
+      "answerIndex": 1,
+      "explain": "At typical municipal levels it’s generally fine for landscape use; sensitive closed systems can differ."
+    },
+    {
+      "id": "exp_078",
+      "q": "A rain garden is primarily designed to:",
+      "choices": [
+        "Increase storm runoff speed",
+        "Capture/infiltrate stormwater and reduce runoff",
+        "Eliminate gutters",
+        "Raise soil pH"
+      ],
+      "answerIndex": 1,
+      "explain": "Rain gardens manage runoff by slowing, capturing, and infiltrating water using suitable plants."
+    },
+    {
+      "id": "exp_079",
+      "q": "Verticillium wilt often shows as:",
+      "choices": [
+        "Uniform yellowing of all leaves",
+        "Sudden wilting/dieback often on one side or one branch",
+        "White powdery film",
+        "Spots only on petals"
+      ],
+      "answerIndex": 1,
+      "explain": "It commonly causes uneven branch wilting/dieback because vascular tissues are affected."
+    },
+    {
+      "id": "exp_080",
+      "q": "Boxwood winter bronzing is often worsened by:",
+      "choices": [
+        "Shelter from wind",
+        "Harsh wind/sun exposure and desiccation",
+        "Deep shade all year",
+        "Low soil organic matter only"
+      ],
+      "answerIndex": 1,
+      "explain": "Wind/sun can dry foliage in winter, leading to bronzing/burn."
+    },
+    {
+      "id": "exp_081",
+      "q": "When overseeding a lawn, the most important factor for success is:",
+      "choices": [
+        "Seed on top of thick thatch",
+        "Good seed-to-soil contact plus consistent moisture",
+        "Applying preemergent the same day",
+        "Stopping watering after sowing"
+      ],
+      "answerIndex": 1,
+      "explain": "Seed-to-soil contact and steady moisture are critical; preemergents can prevent establishment."
+    },
+    {
+      "id": "exp_082",
+      "q": "Why do many fruit trees need “chill hours”?",
+      "choices": [
+        "To keep insects from feeding",
+        "To satisfy dormancy requirements for normal bloom",
+        "To raise soil pH",
+        "To prevent nutrient leaching"
+      ],
+      "answerIndex": 1,
+      "explain": "Chilling helps break dormancy; insufficient chill can reduce flowering and fruit set."
+    },
+    {
+      "id": "exp_083",
+      "q": "The three-cut method for large limb removal is mainly to:",
+      "choices": [
+        "Increase flowering",
+        "Prevent bark tearing and trunk damage",
+        "Disinfect wounds",
+        "Make the cut look smoother"
+      ],
+      "answerIndex": 1,
+      "explain": "It prevents the limb’s weight from ripping bark down the trunk as it drops."
+    },
+    {
+      "id": "exp_084",
+      "q": "Why is wound paint generally discouraged on most tree pruning cuts?",
+      "choices": [
+        "It guarantees faster healing",
+        "It can trap moisture and does not improve natural compartmentalization",
+        "It prevents any pest from landing",
+        "It is legally required"
+      ],
+      "answerIndex": 1,
+      "explain": "Most trees seal wounds via compartmentalization; paints often don’t help and can worsen conditions."
+    },
+    {
+      "id": "exp_085",
+      "q": "Norway maple (Acer platanoides) is often disliked in landscapes because it:",
+      "choices": [
+        "Is always evergreen",
+        "Can form dense shallow roots and heavy shade that suppress understory plants",
+        "Fixes nitrogen aggressively",
+        "Cannot tolerate clay soil"
+      ],
+      "answerIndex": 1,
+      "explain": "It can create difficult growing conditions beneath its canopy due to root competition and shade."
+    },
+    {
+      "id": "exp_086",
+      "q": "In Zones 5–6, which is a common symptom of salt spray on evergreens?",
+      "choices": [
+        "Random purple spots",
+        "Tip browning on needles on the road-facing side",
+        "White powder on stems",
+        "Holes between veins"
+      ],
+      "answerIndex": 1,
+      "explain": "Salt spray injury often concentrates on exposed sides and shows as tip burn."
+    },
+    {
+      "id": "exp_087",
+      "q": "Why do marginal buds become more vulnerable as they swell in spring?",
+      "choices": [
+        "Hardiness increases dramatically",
+        "Hardiness decreases as dormancy breaks and tissues rehydrate",
+        "They stop transpiring completely",
+        "They gain antifreeze chemicals rapidly"
+      ],
+      "answerIndex": 1,
+      "explain": "As buds swell, tissues are more active and less freeze-tolerant."
+    },
+    {
+      "id": "exp_088",
+      "q": "A major benefit of planting oaks (Quercus spp.) is:",
+      "choices": [
+        "Instant canopy within one season",
+        "Long lifespan and high wildlife/ecological value",
+        "No leaf drop ever",
+        "Guaranteed immunity to pests"
+      ],
+      "answerIndex": 1,
+      "explain": "Oaks are valued for longevity and ecosystem support; no tree is pest-immune."
+    },
+    {
+      "id": "exp_089",
+      "q": "Why can container plants show drought stress sooner than in-ground plants?",
+      "choices": [
+        "Containers prevent evaporation",
+        "Less soil volume and faster drainage increase drying",
+        "Roots don’t absorb water in containers",
+        "Mulch cannot be used in pots"
+      ],
+      "answerIndex": 1,
+      "explain": "Containers have limited media volume and often drain/dry faster than garden soils."
+    },
+    {
+      "id": "exp_090",
+      "q": "A good reason to mulch vegetable beds is:",
+      "choices": [
+        "It guarantees no pests",
+        "It moderates moisture and suppresses weeds",
+        "It sterilizes soil",
+        "It replaces rotation"
+      ],
+      "answerIndex": 1,
+      "explain": "Mulch reduces evaporation and weed germination; it doesn’t replace rotation or IPM."
+    },
+    {
+      "id": "exp_091",
+      "q": "Why is “planting on a mound” sometimes used for shrubs in heavy clay?",
+      "choices": [
+        "To lower soil temperature",
+        "To improve drainage around the root zone",
+        "To increase compaction",
+        "To force flowering"
+      ],
+      "answerIndex": 1,
+      "explain": "Mounding lifts roots above saturated zones, improving oxygen and reducing rot risk."
+    },
+    {
+      "id": "exp_092",
+      "q": "When a plant is 'rootbound,' the best planting correction is usually to:",
+      "choices": [
+        "Plant it as-is to avoid disturbance",
+        "Loosen/slice outer circling roots to encourage outward growth",
+        "Remove all roots completely",
+        "Soak overnight in fertilizer"
+      ],
+      "answerIndex": 1,
+      "explain": "Correcting circling roots helps prevent future girdling and improves establishment."
+    },
+    {
+      "id": "exp_093",
+      "q": "A classic vegetable family grouping for crop rotation is:",
+      "choices": [
+        "Tomatoes/peppers/eggplant as Solanaceae",
+        "Carrots as grasses",
+        "Beans as conifers",
+        "Lettuce as citrus"
+      ],
+      "answerIndex": 0,
+      "explain": "Tomatoes, peppers, and eggplant are Solanaceae and often share pests/diseases."
+    },
+    {
+      "id": "exp_094",
+      "q": "Why are onions and garlic often planted early in cool seasons?",
+      "choices": [
+        "They require tropical heat to form bulbs",
+        "They tolerate cool weather and can establish before heat",
+        "They need constant saturated soil",
+        "They only grow in shade"
+      ],
+      "answerIndex": 1,
+      "explain": "Alliums tolerate cooler conditions and benefit from early establishment."
+    },
+    {
+      "id": "exp_095",
+      "q": "Which statement about compost and fertilizer is most accurate?",
+      "choices": [
+        "Compost is identical to fertilizer",
+        "Compost improves soil properties; fertilizer supplies concentrated nutrients",
+        "Fertilizer always improves soil structure",
+        "Compost is only sand and silt"
+      ],
+      "answerIndex": 1,
+      "explain": "Compost primarily improves soil condition; fertilizer is mainly nutrient supply."
+    },
+    {
+      "id": "exp_096",
+      "q": "Why is “site selection” so critical for plant success?",
+      "choices": [
+        "It replaces watering",
+        "It matches species needs (light, moisture, wind, soil) to conditions",
+        "It eliminates winter entirely",
+        "It guarantees pest immunity"
+      ],
+      "answerIndex": 1,
+      "explain": "Right plant/right place reduces stress and improves long-term performance."
+    },
+    {
+      "id": "exp_097",
+      "q": "A practical sign a shrub is too shaded is:",
+      "choices": [
+        "Compact growth and heavy flowering",
+        "Leggy growth with sparse foliage and reduced bloom",
+        "Dark green thick stems always",
+        "Immediate fruiting"
+      ],
+      "answerIndex": 1,
+      "explain": "Low light often causes elongated, weak growth and fewer flowers."
+    },
+    {
+      "id": "exp_098",
+      "q": "Why is it risky to prune spring-flowering shrubs (like lilac) in late winter?",
+      "choices": [
+        "It increases drought tolerance",
+        "You may remove flower buds formed the previous season",
+        "It sterilizes the plant",
+        "It increases soil acidity"
+      ],
+      "answerIndex": 1,
+      "explain": "Many spring bloomers set buds on last year’s growth; late-winter pruning removes those buds."
+    },
+    {
+      "id": "exp_099",
+      "q": "Why do some gardeners prefer drip irrigation for disease-prone crops like tomatoes?",
+      "choices": [
+        "It increases leaf wetness",
+        "It keeps foliage drier than overhead watering",
+        "It raises soil pH instantly",
+        "It eliminates pruning needs"
+      ],
+      "answerIndex": 1,
+      "explain": "Keeping foliage drier reduces foliar disease pressure compared with frequent overhead watering."
+    },
+    {
+      "id": "exp_100",
+      "q": "Which is the best description of “allelopathy” in horticulture?",
+      "choices": [
+        "Plants fixing nitrogen",
+        "A plant releasing chemicals that affect growth of other plants",
+        "A plant attracting pollinators",
+        "A soil texture type"
+      ],
+      "answerIndex": 1,
+      "explain": "Allelopathy refers to chemical interactions that can suppress or alter neighboring plant growth."
+    }
+  ]
+}
